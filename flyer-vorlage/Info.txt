@@ -1,0 +1,11 @@
+Die Vorlagen hier drinne sind etwas optimiert, um sie besser bearbeiten zu koennen.
+
+Dies gilt sowohl fuer die automatische Bearbeitung, als auch fuer die Bearbeitung
+
+unter Inkscape.
+
+Ich habe dieses layout getestet und unter Firefox, Inkscape und Emacs sahen sie etwa 
+
+gleich aus. Happy hacking
+
+

@@ -1,0 +1,175 @@
+Email – Monatsprogramm April 2011 – Das Labor
+
+                   ______   _______  _______
+                   (  __  \ (  ___  )(  ____ \
+                   | (  \  )| (   ) || (    \/
+                   | |   ) || (___) || (_____
+                   | |   | ||  ___  |(_____  )
+                   | |   ) || (   ) |      ) |
+                   | (__/  )| )   ( |/\____) |
+                   (______/ |/     \|\_______)
+
+           _        _______  ______   _______  _______
+          ( \      (  ___  )(  ___ \ (  ___  )(  ____ )
+          | (      | (   ) || (   ) )| (   ) || (    )|
+          | |      | (___) || (__/ / | |   | || (____)|
+          | |      |  ___  ||  __ (  | |   | ||     __)
+          | |      | (   ) || (  \ \ | |   | || (\ (
+          | (____/\| )   ( || )___) )| (___) || ) \ \__
+          (_______/|/     \||/ \___/ (_______)|/   \__/
+
+		  vorläufiges Programm - April 2011
+
+Du bekommst diesen Newsletter, weil du dich für das Labor in Bochum
+interressierst. Für ein aktuelles Programm mit den genauen Terminen
+besuche bitte unsere Homepage https://www.das-labor.org oder 
+abonniere unseren Kalender unter https://www.das-labor.org/termine.ics
+
+
+
+
+
+
+		  Einführung in den USB 2.0 Standard
+			      06. April
+
+Wir benutzen USB Geräte jeden Tag, und doch wissen viele nicht, wie
+dieser Standard funktioniert. Wo liegen die Unterschiede zu USB 1.0
+und USB 3.0? Wie sieht die Codierung der Datenpakete aus? Und wie
+sieht ein USB-Paketsniffer aus? Es soll hierbei die Grundlage
+geschaffen werden diesen Standard auf dem Mikrocontroller zu
+implementieren.
+Schwerpunkte: Unterschied zu USB 1.0 (und USB 3.0 Superspeed),
+physikalische Übertragung, Kodierung, Packete auf dem Bus und
+Transfers. USB am Mikrokontroller, Software-Emulation oder Hardware,
+was brauche ich? Packetsniffing am USB-Bus, Hardwarelösungen und
+Softwaretools.
+
+
+
+		   Reverse Engineering mit Radare 2
+			      07. April
+
+Reverse Engineering und das Debuggen von Programmen resp. die
+Programmanalyse ist in der heutigen Zeit kaum mehr ohne die richtige
+Software möglich. Eine umfangreiche Scriptingsprache und die Erzeugung
+von Callgraphen sind nur eine der vielen Funktionen in Radare, die
+hohe Flexibilität bei übersichtlicher Darstellung ermöglichen. Jan
+Lieven gibt eine Einführung in die Bedienung von Radare 2.
+Es wird um Voranmeldung gebeten: orga@das-labor.org 
+
+
+	GuttenPlag, oder: Wie stürze ich eine Bundesminister?
+			      11. April
+
+Guttenbergs Dissertation und die Plagiatsvorwürfe werden seit dem 16.
+Februar 2011 intensiv in nahezu allen deutschsprachigen Medien
+behandelt. Eine Chronologie der Ereignisse sowie einige Einblicke, wie
+das Wiki und die vielen Helfer koordiniert wurden.
+
+
+
+			 Lockpicking-Treffen
+			      13. April
+
+Das Lockpickingtreff im Labor ist eine Veranstaltung um sich gemeinsam
+den Freuden des nicht zerstörerischen Schlossöffnens hinzugeben.
+Wer immer schon einmal wissen wollte, wie ein Schloss eigentlich
+funktioniert und wie man eines öffnet, wenn man seinen Schlüssel mal
+vergessen haben sollte (und wem das schon mal passiert ist, der weiss,
+wie teuer Schlüsseldienste sind!), ist bei diesem Treffen willkommen.
+Es sind keine speziellen Vorkenntnisse notwendig.
+
+
+
+			    Fix your Linux
+			      14. April
+
+Dein Linux macht nicht, was es soll? Die Popupbox, die dich darüber
+informiert, dass es nicht geht, ist total unverständlich? Irgendwie
+weißt du auch nicht, wie du dein Problem formulieren sollst? Dann ist
+hier deine Anlaufstelle. Im Labor helfen wir dir die Läuse aus deinem
+Linux zu treiben, machen mit dir zusammen Updates und versuchen dir
+jede Frage zu beantworten.
+
+
+
+  Einführung in die moderne Kryptographie - symmetrische Kryptographie
+			       15.April
+
+Kryptographie hat in unserer vernetzten Medienwelt eine große
+Bedeutung. Der Unterschied zwischen asymmetrischer und symmetrischer
+Kryptographie lässt sich ja auch schnell erklären. Aber wie sieht es
+in der realen Welt aus? Wie implementiert man AES richtig? Wann
+ist RSA [un]sicher? Was sind die Alternativen? Und warum funktioniert
+public key Kryptographie überhaupt?
+Der erste Vortrag dieser Reihe führt in die grundlegenden Primitiven 
+der modernen symmetrischen Kryptographie ein. Behandelt werden die
+Sicherheitsparameter und gängige Aufbauschemata von Blockchiffren,
+Stromchiffren, Hashfunktionen und MACs. Zudem werden 
+Verwendungsschemata von Blockchiffren besprochen.
+
+
+
+
+		TPMCrypt & Festplattenverschlüsselung
+			       16.April
+
+Heutzutage wird Verschlüsselung immer mehr zu einem Standard.
+Programme wie cryptsetup, Truecrypt, eCryptFS und weitere, sind aus
+den Endanwendersystemen nicht mehr wegzudenken. Transparente
+Verschlüsselung der Datenbestände gibt es schon lange, aber welche
+Bedeutung hat ein vertrauenswürdiger Bootvorgang? Warum ist „Wissen
+und Besitz“ noch immer besser als nur „Wissen“?
+
+
+
+			Ruby-Abend - RubyGems
+			      20. April
+
+Alle 1-2 Monate treffen sich Ruby-Interessierte zum Austausch und zum
+voneinander lernen. Der Abend ist sowohl für eingefleischte Rubyisten
+als auch für Anfänger geeignet. Neben Ruby geht es dabei auch um die
+Ruby-nahen Randgebiete, meist aus der Webentwicklung. Freunde von
+JavaScript sind also auch willkommen.
+Thema: Ruby Gems - Das Installieren eines rubygems ist eine einfache
+Sache. Aber wie ist ein Gem aufgebaut?
+Welcher Struktur liegen Ihnen zugrunde und wann ist es sinnvoll ein
+eigenes Gem zu erstellen? Auch die Distribution eines Gems erfolgt mit
+Hilfe eines speziellen Servers. Diesen und ähnlichen Bereichen von
+Ruby soll auf den Grund gegangen werden.
+
+
+
+ Einführung in die modern Kryptographie - asymmetrische Kryptographie
+			       29.April
+
+Kryptographie bekommt in unserer vernetzten Medienwelt eine immer
+größere Bedeutung. Dabei geht es nicht nur um die Verschlüsselung der
+privaten Daten wie Urlaubsfotos oder ähnlichem, sondern auch um
+sichere Transaktionen im World Wide Web. Jedoch sind hierfür
+symmetrische Verschlüsselungsverfahren ungeeignet, da sie jedes mal
+den Austausch von Schlüsseln über einen sicheren Kanal erfordern, der
+in den meisten Fällen nicht gegeben ist.
+In dem Vortrag geht es daher um die asymmetrischen
+Verschlüsselungsverfahren, die es ermöglichen einen Schlüsselaustausch
+auch über einen unsicheren Kanal vorzunehmen, ohne dass der
+lauschende Angreifer einen Vorteil erhält. Es werden die
+grundsätzlichen Prinzipien vorgestellt sowie einige der wichtigsten
+Verfahren hierfür. Dies geschieht einmal auf eine nicht formale und
+leicht verständliche Art, sowie auf eine sehr formale, mathematisch
+korrekte Art und Weise.
+
+
+
+			   Teslatreffen NRW
+			    30.April 2011
+
+Du beschäftigst dich mit Hochspannung? Arcattack ist dir ein Begriff?
+Das Labor veranstaltet dieses Jahr erstmalig das "Teslatreffen NRW"
+das an die Veranstaltung Teslathon 2009 und 2010 angelehnt ist.
+Hierbei handelt es sich um ein Treffen für den Austausch von
+Erfahrungen und Ideen rund um das Thema Hochspannung und deren
+Anwendung. 
+Es wird um Voranmeldung bis zum 15. April 2011 gebeten:
+teslatreffen@das-labor.org 

@@ -1,0 +1,106 @@
+ADOBE INDESIGN - DRUCKANLEITUNGEN FÜR BELICHTUNGSBÜROBERICHT
+
+SATZDATEINAME: Laborflyer_RZ.indd
+
+PACKDATUM: 19.12.2008 15:20 Uhr
+Erstellungsdatum 19.12.2008
+Änderungsdatum: 19.12.2008
+
+AUFTRAGGEBER
+
+Firma: 
+Ansprechpartner: 
+Adresse: 
+
+
+
+
+
+Telefon: 
+Fax: 
+E-Mail: 
+
+BESONDERE ANWEISUNGEN UND ANDERE ANMERKUNGEN
+
+
+
+
+
+
+Externe Zusatzmodule 0
+Nicht deckende Objekte:Auf Seite1, 2
+
+SCHRIFTARTEN
+5 Schriftart(en) verwendet; 1 fehlend, 0 Eingebettet, 0 unvollst., 0 geschützt
+
+Schriftarten verpackt
+- Name: GillSans; Typ: TrueType, Status: OK
+- Name: GillSans-Italic; Typ: TrueType, Status: OK
+- Name: GillSans-Light; Typ: TrueType, Status: OK
+- Name: Myriad-Roman; Typ: Type 1, Status: OK
+- Name: Times New Roman (OTF) Regular; Typ: ???, Status: fehlend
+
+
+FARBEN UND DRUCKFARBEN
+4 Prozessfarbe(n); 0 Volltonfarbe(n)
+
+- Name und Typ: Prozessfarbe Cyan; Winkel: 75,000; Linien/Zoll: 70,000
+- Name und Typ: Prozessfarbe Magenta; Winkel: 15,000; Linien/Zoll: 70,000
+- Name und Typ: Prozessfarbe Gelb; Winkel: 0,000; Linien/Zoll: 70,000
+- Name und Typ: Prozessfarbe Schwarz; Winkel: 45,000; Linien/Zoll: 70,000
+
+
+VERKNÜPFUNGEN & BILDER
+(Nur fehlende & eingebettete Verknüpfungen)
+Verknüpfungen & Bilder: 19 Verknüpfung(en) gefunden; 0 geändert, 0 fehlend
+Bilder: 0 Eingebettet, 18 verwenden RGB-Farbraum
+
+
+DRUCKEINSTELLUNGEN
+PPD: Xerox DocuPrint N4525, (192.168.1.109)
+Drucken auf: Drucker
+Anzahl der Exemplare: 1
+Druckbögen: Nein
+Gerade/Ungerade Seiten: Beides
+Seiten: Alle
+Probedruck: Nein
+Druckseite aufteilen: Ohne
+Skalieren: 100%, 100%
+Seitenposition: Oben links
+Ebenen drucken: Sichtbare und druckbare Ebenen
+Druckermarken: Ohne
+Anschnitt: 0 Zoll, 0 Zoll, 0 Zoll, 0 Zoll
+Farbe: Composite-CMYK
+Überfüllungsmodus: Ohne
+Bilddaten senden: Optimierte Abtastauflösung
+OPI/DCS-Bildersetzung: Nein
+Seitenformat: Benutzerdefiniert: 394 mm x 210 mm
+Papierabmessungen: 297,039 mm x 420,158 mm
+Format: Querformat
+Negativ: Nein
+Spiegelmodus: Aus
+
+
+DATEIPAKETLISTE
+
+1. Laborflyer_RZ.indd; Typ: Adobe InDesign-Satzdatei; Größe: 14703K
+2. GillSans.dfont; Typ: Schriftartendatei; Größe: 327K
+3. MyriaRom; Typ: Schriftartendatei; Größe: 30K
+4. Myriad; Typ: Schriftartendatei; Größe: 58K
+5. 2006-12-28_23c3_0179_01u.jpg; Typ: Verknüpfte Datei; Größe: 5622K
+6. 23c3-loeten.jpg; Typ: Verknüpfte Datei; Größe: 4031K
+7. 336232720_886a7582cd_o.jpg; Typ: Verknüpfte Datei; Größe: 1884K
+8. 800px-Borg16Screen.jpg; Typ: Verknüpfte Datei; Größe: 347K
+9. Anfahrtsskizze.eps; Typ: Verknüpfte Datei; Größe: 696K
+10. Nebel_borg.jpg; Typ: Verknüpfte Datei; Größe: 501K
+11. labor_projekttage-15.jpg; Typ: Verknüpfte Datei; Größe: 4465K
+12. labor_projekttage-17.psd; Typ: Verknüpfte Datei; Größe: 67754K
+13. labor_projekttage-171.psd; Typ: Verknüpfte Datei; Größe: 30944K
+14. labor_projekttage-1711.psd; Typ: Verknüpfte Datei; Größe: 64054K
+15. labor_projekttage-25.jpg; Typ: Verknüpfte Datei; Größe: 2404K
+16. labor_projekttage-47.jpg; Typ: Verknüpfte Datei; Größe: 503K
+17. maik_20061229_161237_d200_015010-01.jpg; Typ: Verknüpfte Datei; Größe: 5143K
+18. maik_20061230_133827_d200_015159-01.jpg; Typ: Verknüpfte Datei; Größe: 2509K
+19. til-2052.psd; Typ: Verknüpfte Datei; Größe: 97673K
+20. til-2091 Kopie.jpg; Typ: Verknüpfte Datei; Größe: 6127K
+21. til-2111.psd; Typ: Verknüpfte Datei; Größe: 22271K

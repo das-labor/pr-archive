@@ -1,0 +1,174 @@
+                      ______   _______  _______
+                     (  __  \ (  ___  )(  ____ \
+                     | (  \  )| (   ) || (    \/
+                     | |   ) || (___) || (_____
+                     | |   | ||  ___  |(_____  )
+                     | |   ) || (   ) |      ) |
+                     | (__/  )| )   ( |/\____) |
+                     (______/ |/     \|\_______)
+
+             _        _______  ______   _______  _______
+            ( \      (  ___  )(  ___ \ (  ___  )(  ____ )
+            | (      | (   ) || (   ) )| (   ) || (    )|
+            | |      | (___) || (__/ / | |   | || (____)|
+            | |      |  ___  ||  __ (  | |   | ||     __)
+            | |      | (   ) || (  \ \ | |   | || (\ (
+            | (____/\| )   ( || )___) )| (___) || ) \ \__
+            (_______/|/     \||/ \___/ (_______)|/   \__/
+
+	     W e r    b a s t e l t    h a t    R e c h t
+
+
+		       Programm - Juni 2011
+
+Du bekommst diesen Newsletter, weil du dich für das Labor in Bochum
+interressierst. Für ein aktuelles Programm besuche bitte unsere
+Homepage https://www.das-labor.org oder abonniere unseren Kalender
+unter https://www.das-labor.org/termine.ics
+
+
+
+
+
+		   = Aufbau und Nutzung von FPGAs =
+			  Donnerstag 2. Juni
+
+Wir werden erklären, wie FPGA's aufgebaut sind, wie und wo sie
+eingesetzt werden. Wir werden klären, wofür FPGA's geeignet sind und
+wofür nicht. Dazu beleuchten wir das Innenleben des FPGA's und
+verdeutlichen, was die einzelnen Komponenten machen. FPGA's arbeiten
+massiv parallel, was eine andere Denkweise als bei den
+Mikrokontrollern nötig macht. Wir erarbeiten den nötigen Designflow
+und das grundlegende Konzept der Programmierung an einfachen
+Beispielen. Das Thema "Taktung" ist nicht ganz trivial. Es warten böse
+Effekte wie "Glitches" und "Skew" auf den Entwickler. Was es mit
+diesen Begriffen auf sich hat, wird ebenfalls erklärt. FPGA's haben
+keine feste Taktfrequenz, sondern die Maximalfrequenz hängt sehr stark
+von der Programmierung ab. Warum das so ist und wie man eine hohe
+Taktfrequenz erreicht, erklären wir natürlich auch. Abgerundet wird
+der Vortrag mit Hinweisen zum Layout und zur Spannungsversorgung.
+Aufgrund der Komplexität des Themas werden wir die Programmiersprachen
+VHDL und Verilog nur insoweit ansprechen, wie sie zum Verständnis der
+Funktion nötig sind. 
+
+
+
+			= Lockpickingtreffen =
+			   Mittwoch 8.Juni
+
+Der LockpickingTreff im Labor ist eine Veranstaltung um sich gemeinsam
+den Freuden des Schlossöffnens hinzugeben.
+Wer immer schon einmal wissen wollte, wie ein Schloss eigentlich
+funktioniert und wie man eines öffnet, wenn man seinen Schlüssel mal
+vergessen haben sollte (und wem das schon mal passiert ist, der weiss,
+wie teuer Schlüsseldienste sind!), ist bei diesem Treffen willkommen.
+Es sind keine speziellen Vorkenntnisse notwendig. 
+
+
+
+
+		    = dreiteiliger FPGA Workshop =
+		       Donnerstag 9/23/30. Juni
+
+Ziel des Workshop ist es, eigenständig einfache Programme erstellen zu
+können. Wir werden gemeinsam ein Programm erarbeiten, dass aus einem
+Dev-Board eine Stoppuhr macht. Wenn du ein eigenes Dev-Board hast,
+kannst du es gerne Mitbringen. Vielleicht ist das ja auch ein Grund
+für dich, dir ein Dev-Board zuzulegen.
+Für den Workshop must du dich anmelden. Dafür einfach eine Email mit
+dem Betreff "Anmeldung FPGA Workshop" an anmeldung@das-labor.org
+senden
+
+
+
+
+		   = Ruby-Abend: Code+Style Audit =
+			   Mittwoch 15.Juni
+
+Du hast erste Gehversuche mit Ruby gemacht und Geschmack daran
+gefunden, aber fühlst dich noch nicht so sicher? Du hast ein Problem
+gelöst, aber das Gefühl, das müsste doch irgendwie eleganter, mehr
+"the ruby way" gehen? Auf dem diesmonatigen Ruby-Abend kannst du dir
+von Erfahrenen Tipps abholen und dir beim Verbessern und Verschönern
+deines Codes helfen lassen.
+
+
+
+
+	  = OpenRAS - OpenSource Remote Attestation System =
+			   Dienstag 21.Juni
+
+Das OpenRAS ist eine Entwicklung zur Vereinfachung der Remote
+Attestation mit einem TPM. Es stellt Kommunikationmöglichkeiten
+zwischen verschiedenen Ebenen bereit und besteht aus einem Server,
+Client und libary.Auf dem Vortrag stellen Wir Konzepte, Protokolle,
+und Teilumsetzungen vor.
+
+
+
+
+		 = MediaWiki und semantisches Wiki =
+			   Mitwoch 22.Juni
+
+Jeder kennt Wikipedia, aber wie funktioniert das Wiki dahinter, und
+was kann es alles? Dieser Vortrag gibt einen Einblick in die
+Möglichkeiten vom MediaWiki und die Erweiterung zum semantischen
+MediaWiki. Während des Vortrags können Erfahrungen an einem
+Live-System gesammelt und diskutiert werden.
+
+
+
+
+			    = Gamedesign =
+			   Freitag 24.Juni
+
+Gamedesign ist kreativer Umgang mit Technik in Höchstform. Aus
+Speichereinheiten und elementaren Operationen entstehen Welten -
+Träume eines Anderen, die der Spieler selbst erlebt. Einige Spiele
+zeigen auch, dass weitaus mehr möglich ist als nur Punkte sammelnd
+Level aufzusteigen - sie halten dem Spieler eine Art Spiegel seines
+Verstandes vor. 
+Mit diesem Vortrag soll eine Einführung in die Praxis des
+Spieleenwicklung geben. Dabei liegt der Fokus auf den Designprozess,
+die Umsetzung eines Spiels wird mit Hilfe der Engine Allegro
+demonstriert.
+
+
+
+
+
+	     = Learning by glueing: OCR unkonventionell =
+			  Dienstag 28. Juni
+
+Keine Maschine kann so gut sehen oder hören wie ein Hund, kein Roboter
+kann sehen,hören,riechen,laufen,greifen wie eine Ratte. Es gibt zwar
+Software, die gedruckten Text lesen oder gesprochene Worte in Text
+umwandeln kann, aber diese Entwicklungen sind nicht so neu, erste,
+halbwegs brauchbare Ansätze sind z.T. Jahrzehnte alt. Der
+hardwaretechnische Fortschritt hat alte Ideen praktikabler gemacht,
+die Unzulänglichkeiten sind geblieben. Schon verschmutzte
+Druckseiten,alte Bücher mit Bleisatz und die Vielfalt alter
+Schrifttypen bringen die kommerziellen Schrifterkennungsprogramme an
+ihre Grenzen. 
+
+
+
+
+		       = Digitale Signaturen =
+			   Mitwoch 29.Juni
+
+Der Vortrag wird sich mit den Grundlagen von digitalen Signaturen
+befassen. Es werden die Aufgaben, Sicherheitsaspekte sowie
+verschiedene Angriffsszenarien vorgestellt. Dies wird an verschiedenen
+Algorithmen erläutert, so das man einen Eindruck bekommt, was
+Signaturen leisten sollen und wie man dies erreicht. 
+
+
+
+
+
+
+<cookie>
+The first 90% of a project takes 90% of the time, the last 10% takes
+the other 90% of the time.
+</cookie>
